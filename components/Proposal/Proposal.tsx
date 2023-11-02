@@ -98,7 +98,7 @@ const Proposal = ({
           </div>
         </div>
         <div className={utilsStyles.rowAlignCenter}>
-          <HourglassIcon width={20} height={20} color={getCSSVariable('--lighter-font-color')} />
+          <ColoredIcon icon={HourglassIcon} color={ICON_COLOR.grey} />
           <CountdownTimer targetDate={status === 'DEPOSIT' ? depositEndTime : votingEndTime} className={styles.timer} />
         </div>
       </div>

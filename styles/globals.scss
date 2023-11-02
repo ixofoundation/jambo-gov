@@ -12,6 +12,11 @@ body {
     font-size: var(--main-font-size);
     color: var(--main-font-color);
   }
+
+  textarea {
+    font-family: var(--font-family-name), -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+      Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  }
 }
 
 * {
