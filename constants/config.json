@@ -1,6 +1,6 @@
 {
   "siteName": "Governance",
-  "siteUrl": "config.siteUrl",
+  "siteUrl": "gov.jambo.earth",
   "siteTitleMeta": "Governance",
   "siteDescriptionMeta": "Vote on chain governance proposals.",
   "fontUrl": "https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap",
